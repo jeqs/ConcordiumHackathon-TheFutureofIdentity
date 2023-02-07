@@ -1,5 +1,5 @@
 # Gitcoin 
-# ConcordiumHackathon - TheFutureofIdentity
+# Concordium Hackathon - The Future of Identity
 
 Install Rust and Cargo
 1. To install Rust, download and run rustup‑init.exe on https://rustup.rs/
